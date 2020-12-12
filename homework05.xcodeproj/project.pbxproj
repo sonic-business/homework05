@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F87C6E125846CDE00FE8B4E /* TutorialPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F87C6E025846CDE00FE8B4E /* TutorialPageViewController.swift */; };
 		3FC066AD25821715003F9752 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC066AC25821715003F9752 /* AppDelegate.swift */; };
 		3FC066AF25821715003F9752 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC066AE25821715003F9752 /* SceneDelegate.swift */; };
 		3FC066B125821715003F9752 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC066B025821715003F9752 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F87C6E025846CDE00FE8B4E /* TutorialPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialPageViewController.swift; sourceTree = "<group>"; };
 		3FC066A925821715003F9752 /* homework05.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homework05.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC066AC25821715003F9752 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FC066AE25821715003F9752 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3FC066AC25821715003F9752 /* AppDelegate.swift */,
 				3FC066AE25821715003F9752 /* SceneDelegate.swift */,
 				3FC066B025821715003F9752 /* ViewController.swift */,
+				3F87C6E025846CDE00FE8B4E /* TutorialPageViewController.swift */,
 				3FC066B225821715003F9752 /* Main.storyboard */,
 				3FC066B52582171A003F9752 /* Assets.xcassets */,
 				3FC066B72582171A003F9752 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				3FC066B125821715003F9752 /* ViewController.swift in Sources */,
 				3FC066AD25821715003F9752 /* AppDelegate.swift in Sources */,
+				3F87C6E125846CDE00FE8B4E /* TutorialPageViewController.swift in Sources */,
 				3FC066AF25821715003F9752 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
